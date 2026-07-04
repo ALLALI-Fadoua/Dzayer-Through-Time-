@@ -1,0 +1,11 @@
+:root {
+  --color-primary: #0B3D2E;
+  --color-primary-dark: #06241A;
+  --color-gold: #C9A227;
+  --color-gold-light: #F5C518;
+  --color-cream: #F7F3EC;
+  --color-ink: #1A1A1A;
+  --font-arabic: 'Cairo', 'Tajawal', sans-serif;
+  --radius-card: 16px;
+  --shadow-card: 0 8px 30px rgba(11, 61, 46, 0.08);
+}
